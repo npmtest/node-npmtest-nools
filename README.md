@@ -1,6 +1,6 @@
 # npmtest-nools
 
-#### test coverage for  [nools (v0.4.4)](http://c2fo.github.com/nools)  [![npm package](https://img.shields.io/npm/v/npmtest-nools.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-nools) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-nools.svg)](https://travis-ci.org/npmtest/node-npmtest-nools)
+#### basic test coverage for  [nools (v0.4.4)](http://c2fo.github.com/nools)  [![npm package](https://img.shields.io/npm/v/npmtest-nools.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-nools) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-nools.svg)](https://travis-ci.org/npmtest/node-npmtest-nools)
 
 #### A rules engine for node
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-nools/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-nools/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-nools/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-nools/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-nools/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-nools/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-nools/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-nools/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-nools/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-nools/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-nools/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-nools/build/coverage.html/index.html)
 
